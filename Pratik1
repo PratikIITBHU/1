@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pratik Kundu - Mechanical Behaviour Testing</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Header Section -->
+    <header>
+        <div class="container">
+            <div class="profile">
+                <img src="pratik_kundu_photo.jpg" alt="Pratik Kundu" class="profile-pic">
+                <h1>Pratik Kundu</h1>
+                <h2>Mechanical Behaviour Testing Expert</h2>
+            </div>
+        </div>
+    </header>
+
+    <!-- Navigation Bar -->
+    <nav>
+        <ul>
+            <li><a href="#about">About Me</a></li>
+            <li><a href="#research">Research Papers</a></li>
+            <li><a href="#work">Work Profile</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+
+    <!-- About Section -->
+    <section id="about" class="container">
+        <h2>About Me</h2>
+        <p>
+            I am Pratik Kundu, a dedicated professional specializing in Mechanical Behaviour Testing. With a strong background in mechanical engineering, I focus on analyzing material properties under various conditions to ensure quality and performance.
+        </p>
+    </section>
+
+    <!-- Research Papers Section -->
+    <section id="research" class="container">
+        <h2>Research Papers</h2>
+        <ul>
+            <li><a href="#">Study on Fatigue Behavior of Composite Materials (2024)</a></li>
+            <li><a href="#">Impact Testing of Alloys Under High Temperatures (2023)</a></li>
+            <li><a href="#">Tensile Strength Analysis of Steel Structures (2022)</a></li>
+        </ul>
+    </section>
+
+    <!-- Work Profile Section -->
+    <section id="work" class="container">
+        <h2>Work Profile</h2>
+        <p>
+            <strong>Lead Mechanical Engineer</strong> at XYZ Corp (2020–Present)<br>
+            - Conducted advanced mechanical testing on industrial materials.<br>
+            - Developed protocols for stress and strain analysis.<br>
+            <strong>Junior Engineer</strong> at ABC Ltd (2018–2020)<br>
+            - Assisted in material testing and quality assurance.<br>
+            - Collaborated on research projects for lightweight alloys.
+        </p>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact" class="container">
+        <h2>Contact Me</h2>
+        <p>Email: pratik.kundu@example.com</p>
+        <p>LinkedIn: <a href="#">linkedin.com/in/pratikkundu</a></p>
+        <p>Phone: +91-123-456-7890</p>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2025 Pratik Kundu. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
