@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sabyasachi Dey</title>
+    <style>
+        body {
+            background-color: white;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+        }
+        .header {
+            text-align: center;
+        }
+        .logo {
+            width: 150px;
+            height: auto;
+        }
+        .iitbhu-img {
+            width: 100%;
+            max-width: 600px;
+            height: auto;
+        }
+        .content {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        .buttons {
+            margin: 20px 0;
+        }
+        .button {
+            display: inline-block;
+            margin-right: 10px;
+            text-decoration: none;
+            padding: 10px 20px;
+            background-color: #0077b5; /* LinkedIn blue */
+            color: white;
+            border-radius: 5px;
+        }
+        .wp-button {
+            background-color: #25D366; /* WhatsApp green */
+        }
+        .section {
+            margin-top: 40px;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <img src="https://via.placeholder.com/150?text=Logo" alt="Logo" class="logo">
+        <br>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/IIT-BHU_Varanasi_Main_Gate.jpg" alt="IIT BHU Campus" class="iitbhu-img">
+    </div>
+    
+    <div class="content">
+        <h1>Sabyasachi Dey</h1>
+        
+        <div class="buttons">
+            <a href="https://www.linkedin.com/in/sabyasachi-dey-272290238?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" class="button">LinkedIn</a>
+            <a href="https://wa.me/919073204923" class="button wp-button">WhatsApp Contact (+91 90732 04923)</a>
+        </div>
+        
+        <div class="section">
+            <h2>Research Papers</h2>
+            <ul>
+                <li>Sustainable Analysis of Process Parameters during MIG Welding of 1018 Mild Steel (2022)</li>
+                <li>Sustainable Analysis of Process Parameters During TIG Welding of Dissimilar Joining Between 304 Stainless Steel and AISI 1018 Mild Steel (2022)</li>
+            </ul>
+        </div>
+        
+        <div class="section">
+            <h2>Education Background</h2>
+            <p>Master of Technology, Indian Institute of Technology BHU, Varanasi</p>
+        </div>
+    </div>
+</body>
+</html>
